@@ -17,4 +17,9 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- On Settings screen, notify on every message pop-up menu label -->
     <string name="account_settings_notify_every_message_label">Notify for every message</string>
+
+    <!-- Heads up -->
+    <string name="account_settings_heads_up_label">Enable heads up mode</string>
+    <string name="account_settings_heads_up_summary">Show incoming notification for this account as heads up</string>
+
 </resources>
